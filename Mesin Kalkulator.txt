@@ -1,0 +1,9 @@
+mesin
+
+state dimulai dari A
+A bertemu dengan 1...9 -> B
+B bertemu + - * / -> C  
+C bertemu 1...9 -> B
+B bertemu 0...9 -> B
+B bertemu = -> D
+D merupakan final state
